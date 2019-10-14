@@ -1,1 +1,1 @@
-Dummy Social Media Clone Project
+Dummy Social Media Clone Project for Django beginners
